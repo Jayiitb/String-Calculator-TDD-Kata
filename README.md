@@ -62,4 +62,9 @@ Below is the output showing that the third and 4th test case has passed, after t
 
 ![Test Output](public/pass4.png)
 
+**5th Test Pass Implementation**
+Below is the output showing that the 5th test case has passed, after the implementation of regex based split:
+
+![Test Output](public/pass5.png)
+
 
