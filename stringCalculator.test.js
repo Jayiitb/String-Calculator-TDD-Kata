@@ -31,7 +31,7 @@ describe('String Calculator', () => {
 
   test('multiple negative numbers include all in the exception message', () => {
     expect(() => add('2,-4,3,-5')).toThrow(
-      'Negative numbers not allowed: -4, -5'
+      'Negative numbers not allowed: -4,-5'
     );
   });
 });

@@ -72,4 +72,8 @@ Below is the output showing that the 6th test case has passed, after the impleme
 
 ![Test Output](public/pass6.png)
 
+**All Test Passing :D**
+Below is the output showing that all the test cases has passed, after the implementation for negatives:
+
+![Test Output](public/pass8.png)
 
