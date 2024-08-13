@@ -51,4 +51,9 @@ Below is the output showing that the first test case has passed:
 
 ![Test Output](public/pass1.png)
 
+**Second Test Pass Implementation**
+Below is the output showing that the second test case has passed:
+
+![Test Output](public/pass2.png)
+
 
