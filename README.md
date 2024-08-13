@@ -27,6 +27,20 @@ Updated the `package.json` file to configure Jest as testing framework. Added fo
 "scripts": {
   "test": "jest"
 }
+```
 
 This will help us run script with `npm test` or `npm run test`. 
+
+### 5. Created .gitignore
+I generated a `.gitignore` file using the `gitignore` package to ensure that unnecessary files are excluded from version control like github/gitlab. This helps keep the repository clean by avoiding the inclusion of files such as `node_modules` and environment configurations. To create the `.gitignore` file, I used the following command:
+```bash
+npx gitignore node
 ```
+
+### 6. Test Cases and Starting method
+I wrote comprehensive test cases for the project and included a method to facilitate starting the tests. After executing the `npm test` command, the output indicates that all the tests are currently failing.
+
+You can review the output from the test run in the image below:
+
+![Test Output](public/test1.png)
+
