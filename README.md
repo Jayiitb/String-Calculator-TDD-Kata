@@ -44,3 +44,11 @@ You can review the output from the test run in the image below:
 
 ![Test Output](public/test1.png)
 
+**First Test Pass Implementation**
+After implementing the solution for the first test case, it passed successfully while the remaining tests are still failing. We will now focus on addressing the second test case.
+
+Below is the output showing that the first test case has passed:
+
+![Test Output](public/pass1.png)
+
+

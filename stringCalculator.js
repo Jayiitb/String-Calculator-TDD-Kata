@@ -1,5 +1,7 @@
 function add(numbers) {
-  // Implementation will be added here
+  if (numbers === '') {
+    return 0;
+  }
 }
 
 module.exports = { add };
