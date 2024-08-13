@@ -57,3 +57,9 @@ Below is the output showing that the second test case has passed:
 ![Test Output](public/pass2.png)
 
 
+**Third Test Pass Implementation**
+Below is the output showing that the third and 4th test case has passed, after the implementation:
+
+![Test Output](public/pass4.png)
+
+
