@@ -67,4 +67,9 @@ Below is the output showing that the 5th test case has passed, after the impleme
 
 ![Test Output](public/pass5.png)
 
+**6th Test Pass Implementation**
+Below is the output showing that the 6th test case has passed, after the implementation of delimeter as variable:
+
+![Test Output](public/pass6.png)
+
 
